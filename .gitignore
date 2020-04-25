@@ -1,0 +1,12 @@
+assets/Cronograma.sketch
+assets/Cover
+
+.DS_Store
+*/.DS_Store
+*/*/.DS_Store
+*/*/*/.DS_Store
+
+node_modules
+*/node_modules
+*/*/node_modules/
+*/*/*/*node_modules/
