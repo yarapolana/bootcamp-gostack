@@ -1,5 +1,7 @@
 assets/Cronograma.sketch
 assets/Cover
+BonusExclusivo.zip
+wallpaper keep coding/
 
 .DS_Store
 */.DS_Store
@@ -10,3 +12,6 @@ node_modules
 */node_modules
 */*/node_modules/
 */*/*/*node_modules/
+
+nivel-2/*
+nivel-3/*
