@@ -22,12 +22,12 @@
 | ------------ | --------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
 | Level 1️⃣     | All Files | ---                                                                                                      | [here](https://github.com/yarapolana/bootcamp-gostack/tree/master/nivel-1)                       |
 | NodeJS       | Lesson    | From lesson called **Backend with Node** you will find all files and code from the actual lesson.        | [here](https://github.com/yarapolana/bootcamp-gostack/tree/master/nivel-1/node/backend)          |
-| NodeJS       | Challenge | Code challenge called **Concepts of Node** in its own repository.                                        | [here](https://github.com/yarapolana/bootcamp-gostack/tree/master/nivel-1/node/_desafio)         |
 | ReactJS      | Lesson    | From lesson called **Backend with ReactJS** you will find all files and code from the actual lesson.     | [here](https://github.com/yarapolana/bootcamp-gostack/tree/master/nivel-1/react/frontend)        |
-| ReactJS      | Challenge | Code challenge called **Concepts of ReactJS** in its own repository.                                     | [here](https://github.com/yarapolana/bootcamp-gostack/tree/master/nivel-1/react/_desafio)        |
 | React Native | Lesson    | From lesson called **Mobile with React Native** you will find all files and code from the actual lesson. | [here](https://github.com/yarapolana/bootcamp-gostack/tree/master/nivel-1/react-native/mobile)   |
-| React Native | Challenge | Code challenge called **Concepts of React Native** in its own repository.                                | [here](https://github.com/yarapolana/bootcamp-gostack/tree/master/nivel-1/react-native/_desafio) |
 | Typescript   | Lesson    | From lesson called **Typescript** you will find all files and code from the actual lesson.               | [here](https://github.com/yarapolana/bootcamp-gostack/tree/master/nivel-1/typescript)            |
+| NodeJS       | Challenge | Code challenge called **Concepts of Node** in its own repository.                                        | [here](https://github.com/yarapolana/bootcamp-gostack/tree/master/nivel-1/node/_desafio)         |
+| ReactJS      | Challenge | Code challenge called **Concepts of ReactJS** in its own repository.                                     | [here](https://github.com/yarapolana/bootcamp-gostack/tree/master/nivel-1/react/_desafio)        |
+| React Native | Challenge | Code challenge called **Concepts of React Native** in its own repository.                                | [here](https://github.com/yarapolana/bootcamp-gostack/tree/master/nivel-1/react-native/_desafio) |
 | ---          | ---       | ---                                                                                                      | ---                                                                                              |
 
 ---
