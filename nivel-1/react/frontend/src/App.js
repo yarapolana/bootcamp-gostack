@@ -15,9 +15,6 @@ export default function App() {
   }, []);
 
   async function handleAddProject() {
-    // projects.push(`Novo projecto ${Date.now()}`)
-    // This is not working with React
-    // You cant alter directly the variables / arrays
     try {
       const response = await api.post("projects", {
         title: `Novo project ${Date.now()}`,
@@ -28,8 +25,6 @@ export default function App() {
 
       setProjects([...projects, project]);
     } catch (err) {}
-
-    // setProjects([...projects, `Novo project ${Date.now()}`]);
   }
 
   return (
