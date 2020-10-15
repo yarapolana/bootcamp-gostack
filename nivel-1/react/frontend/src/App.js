@@ -9,12 +9,9 @@ export default function App() {
   const [projects, setProjects] = React.useState([]);
 
   React.useEffect(() => {
-    // const data =
     api.get("/projects").then((response) => {
       setProjects(response.data);
     });
-
-    // setProjects(data);
   }, []);
 
   async function handleAddProject() {
